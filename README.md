@@ -49,7 +49,7 @@ Ideal for smart cities, industrial IoT, and edge computing environments where tr
 -  40% reduction in update delivery cost vs. traditional PKI
 -  99.9% update integrity across testbed simulations
 -  Scalable to 10,000+ devices with minimal latency
--  
+  
 ## Setup Instructions
 git clone https://github.com/yourusername/Cost-Efficient-Blockchain-IoT-Updates.git
 cd backend
